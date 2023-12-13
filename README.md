@@ -7,7 +7,8 @@
 
 ## サンプルコードの内容
 - irex2023
-  - kachaka_image_line_trace_demo.ipynb：2023国際ロボット展で展示したX7とカチャカ連携した搬送デモに使用
+  - kachaka_image_line_trace_demo.ipynb
+    - 国際ロボット展2023で展示したX7とカチャカ連携した搬送デモに使用
     
 
 ## ライセンス
