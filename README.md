@@ -5,6 +5,12 @@
 詳細はアールティ移動型ロボットブログの「ROS 2でカチャカを動かしてみた」の連載を御覧ください。  
 [https://rt-net.jp/mobility/archives/category/developer/kachaka-ros2](https://rt-net.jp/mobility/archives/category/developer/kachaka-ros2)
 
+## サンプルコードの内容
+- irex2023
+  - kachaka_image_line_trace_demo.ipynb
+    - 国際ロボット展2023で展示したCRANE-X7とカチャカ連携した搬送デモに使用
+    
+
 ## ライセンス
 
 (C) 2023 RT Corporation
